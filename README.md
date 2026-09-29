@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-stats-extended.vercel.app/api?username=konono)
+![Metrics](/github-metrics.svg)
 
-![Top Languages Card](https://github-stats-extended.vercel.app/api/top-langs/?username=konono)
+![Languages](/languages.svg)
